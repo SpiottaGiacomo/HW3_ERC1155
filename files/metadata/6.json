@@ -1,0 +1,11 @@
+{
+    "name": "HW3 Silver",
+    "description": "Silver",
+    "image": "ipfs://QmcqLFkyw75EiTVB1PAAaLwGZCJ9jnZ564QWJTYFNpVEgg/silver.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Silver"
+        }
+    ]
+}

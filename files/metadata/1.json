@@ -1,0 +1,11 @@
+{
+    "name": "HW3 Dog",
+    "description": "Van Gogh Dog",
+    "image": "ipfs://QmcqLFkyw75EiTVB1PAAaLwGZCJ9jnZ564QWJTYFNpVEgg/image1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Planets"
+        }
+    ]
+}

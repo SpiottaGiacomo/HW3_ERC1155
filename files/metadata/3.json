@@ -1,0 +1,11 @@
+{
+    "name": "HW3 Cat",
+    "description": "Space Cat",
+    "image": "ipfs://QmcqLFkyw75EiTVB1PAAaLwGZCJ9jnZ564QWJTYFNpVEgg/image4.jpg",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Cosmo"
+        }
+    ]
+}

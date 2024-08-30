@@ -1,0 +1,11 @@
+{
+    "name": "HW3 Cat",
+    "description": "NFT Cat",
+    "image": "ipfs://QmcqLFkyw75EiTVB1PAAaLwGZCJ9jnZ564QWJTYFNpVEgg/image5.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Cat"
+        }
+    ]
+}

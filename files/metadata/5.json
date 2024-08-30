@@ -1,0 +1,11 @@
+{
+    "name": "HW3 Gold",
+    "description": "Gold",
+    "image": "ipfs://QmcqLFkyw75EiTVB1PAAaLwGZCJ9jnZ564QWJTYFNpVEgg/gold.jpg",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Gold"
+        }
+    ]
+}
